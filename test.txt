@@ -1,3 +1,4 @@
+Add basic inventory
 Add clothes objects
 Add empty shop
 Update netcode

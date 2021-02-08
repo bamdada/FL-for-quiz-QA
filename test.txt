@@ -1,3 +1,4 @@
+Add clothes objects
 Add empty shop
 Update netcode
 Fix username log-in bug

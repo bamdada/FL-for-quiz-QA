@@ -1,3 +1,4 @@
+Add empty shop
 Update netcode
 Fix username log-in bug
 Add log-in screen
